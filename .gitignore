@@ -8,4 +8,6 @@
 !README.md
 
 # Do not ignore all PDF files (at any depth)
-!**/*.pdf
+!notes/
+notes/*
+!notes/*.pdf
