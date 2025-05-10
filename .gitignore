@@ -1,0 +1,11 @@
+# Ignore everything
+*
+
+# Do not ignore .gitignore itself
+!.gitignore
+
+# Do not ignore README.md
+!README.md
+
+# Do not ignore all PDF files (at any depth)
+!**/*.pdf
